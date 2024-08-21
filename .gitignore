@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/Sunny Land Collection Files/
+/sunny-land-phaser-project/
